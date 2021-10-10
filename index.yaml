@@ -1,18 +1,14 @@
 apiVersion: v1
 entries:
-  ddd:
+  ch2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-10T13:42:19.176620667Z"
-    dependencies:
-    - name: redis
-      repository: https://charts.bitnami.com/bitnami
-      version: 14.7.1
-    description: My Helm chart for Kubernetes
-    digest: 065a9952c22e4182e9a2351c11f62d1c8cc025449d9b2de3555b48224c9eeaaf
-    name: ddd
+    created: "2021-10-10T14:42:15.514509682Z"
+    description: A Helm chart for Kubernetes
+    digest: 6bd36c16ba692f1f2df5a3d906de7101335a1b5eb8c4efb180d486e3aa725e80
+    name: ch2
     type: application
     urls:
-    - https://github.com/avi-nehama/helm-charts/releases/download/ddd-0.1.1/ddd-0.1.1.tgz
-    version: 0.1.1
-generated: "2021-10-10T13:42:18.946595728Z"
+    - https://github.com/avi-nehama/helm-charts/releases/download/ch2-0.1.0/ch2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-10T14:42:15.273439251Z"
