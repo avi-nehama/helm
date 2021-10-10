@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ddd:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-10T12:59:52.910052423Z"
+    description: A Helm chart for Kubernetes
+    digest: 44d2addf490ebcc4b21452eb0cb33ada0b80bdb4ced982b51bce261c5776f998
+    name: ddd
+    type: application
+    urls:
+    - https://github.com/avi-nehama/helm-charts/releases/download/ddd-0.1.0/ddd-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-10T12:59:52.706002245Z"
